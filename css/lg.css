@@ -1,0 +1,18 @@
+.menu__nav{
+padding: 0 1.4rem;
+    
+    gap: 1.6rem;
+    }
+    .menu__list{
+      
+        gap: 1.6rem;
+    
+    }
+        .swiper {
+    
+            width: 100%;
+            height: auto;
+    
+    
+            overflow: hidden;
+        }

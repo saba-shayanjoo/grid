@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: 'sf pro display','sf pro text',system-ui, sans-serif;
+    font-size: 62.5%;
+}
+.container{
+    max-width: 256rem;
+    margin: 0 auto;
+}
+.container-mf{
+    max-width: 102.4rem;
+    margin: 0 auto;
+
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+ul{
+    list-style: none;
+}
